@@ -19,7 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
 }
 
-
+// 收到内存吃紧警告
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
